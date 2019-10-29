@@ -1,0 +1,23 @@
+#!/usr/bin/env/zsh
+
+# Navigation
+alias .. = "cd .."
+alias ... = "cd ../.."
+alias .... = "cd ../../.."
+alias ..... = "cd ../../../../"
+alias ~ = "cd ~"
+alias -- - = "cd -"
+
+# Shortcuts
+
+alias zshconfig="nano ~/.zshrc"
+alias zshreload=". ~/.zshrc"
+alias ohmyzsh="nano ~/.oh-my-zsh"
+alias sn="shutdown now"
+
+
+alias l="colorls --group-directories-first --almost-all"
+alias ll="colorls --group-directories-first --almost-all --long"
+
+
+

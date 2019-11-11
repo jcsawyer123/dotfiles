@@ -1,4 +1,3 @@
-
 # Path to your oh-my-zsh installation.
 export ZSH="/home/jcs/.oh-my-zsh"
 export TERM="xterm-256color"
@@ -59,5 +58,7 @@ POWERLEVEL9K_OS_ICON_BACKGROUND="black"
 POWERLEVEL9K_OS_ICON_FOREGROUND="white"
 
 # --- Source 
-source $HOME/.aliases
+source $HOME/.zshalias
 source $ZSH/oh-my-zsh.sh
+
+eval $(thefuck --alias)

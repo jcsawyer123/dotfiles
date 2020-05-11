@@ -32,15 +32,15 @@ cursor:
 
 font:
   normal:
-    family: Source Code Pro for Powerline
+    family: Source Code Pro
     style: Regular
 
   bold:
-    family: Source Code Pro for Powerline
+    family: Source Code Pro
     style: Regular
 
   italic:
-    family: Source Code Pro for Powerline
+    family: Source Code Pro
     style: Italic
 
 # Colors (Nord)
